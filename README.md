@@ -7,8 +7,8 @@ Enchanted Realm ist ein Side-Scrolling-Shooter Videospiel, in dem die Spieler de
 
 In diesem Genre bewegt sich der Charakter des Spielers von links nach rechts oder von rechts nach links auf dem Bildschirm und bekämpft Feinde, die aus der Seite des Bildschirms kommen, das ist aber kein muss. Die Spieler müssen Hindernissen ausweichen, Gegenstände einsammeln und Spieler-Upgrades finden oder kaufen.
 
+<img align="right" src="https://media.tenor.com/0qxZTHADscwAAAAC/fantasy-zone-shmup.gif" width="70%"/> 
+
 >Fantasy Zone[a] is a 1986 arcade game by Sega, and the first game in the Fantasy Zone series. It was later ported to a wide variety of consoles, including the Master System. The player controls a sentient spaceship named Opa-Opa who fights an enemy invasion in the titular group of planets. The game contains a number of features atypical of the traditional scrolling shooter. The main character, Opa-Opa, is sometimes referred to as Sega's first mascot character.[2]
 
 The game design and main character have many similarities to the earlier TwinBee, and both are credited with establishing the cute 'em up subgenre.[3] It also popularized the concept of a boss rush, a stage where the player faces multiple previous bosses again in succession.[4] Numerous sequels were made over the years.
-
-<img align="right" src="https://media.tenor.com/0qxZTHADscwAAAAC/fantasy-zone-shmup.gif"/> 
