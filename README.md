@@ -6,3 +6,5 @@ Enchanted Realm ist ein Side-Scrolling-Shooter Videospiel, in dem die Spieler de
 ![Fantasy Zone ist unsere Inspiration](https://www.heypoorplayer.com/wp-content/uploads/2020/02/SEGA-AGES-Fantasy-Zone-Banner.jpg)
 
 In diesem Genre bewegt sich der Charakter des Spielers von links nach rechts oder von rechts nach links auf dem Bildschirm und bekämpft Feinde, die aus der Seite des Bildschirms kommen, das ist aber kein muss. Die Spieler müssen Hindernissen ausweichen, Gegenstände einsammeln und Spieler-Upgrades finden oder kaufen. 
+
+<img align="right" src="https://media.tenor.com/0qxZTHADscwAAAAC/fantasy-zone-shmup.gif"/> 
