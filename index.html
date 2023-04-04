@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="https://cdn.jsdelivr.net/npm/phaser@3.55.0/dist/phaser-arcade-physics.min.js"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body style="margin: 0px;  height: 100%; overflow: hidden; background:black; ">
+    <script>
+        var config = {
+            type: Phaser.AUTO,
+
+            scale: {
+                mode: Phaser.Scale.FIT,
+                autoCenter: Phaser.Scale.CENTER_BOTH,
+                height: 224,
+                width: 320,
+            },
+            pixelArt: true,
+            physics: {
+                default: 'arcade',
+                arcade: {
+                    gravity: { y: 300 },
+                    debug: false
+                }
+            },
+            scene: {
+                preload: preload,
+                create: create
+            }
+        };
+
+        var game = new Phaser.Game(config);
+
+
+        function preload() {
+            this.load.setBaseURL('./assets/');
+            this.load.image('01', 'Hintergrund%20-%20rot.png');
+            this.load.image('02', 'Hintergrund%20-%20hell%20rot.png');
+            this.load.image('03', 'Hintergrund%20-%20dunkel%20rot.png');
+            this.load.image('04', 'Vordergrund%20-%20Brocken.png');
+            this.load.image('05', 'Vordergrund%20-%20Lava.png');
+            this.load.image('logo', 'Figur%20-%20Sensen-Figur.png');
+        }
+
+        function create() {
+
+            var img = this.add.image(0, 0, '01');
+            img.setDisplayOrigin(0, 0);
+            var img = this.add.image(0, 0, '02');
+            img.setDisplayOrigin(0, 0);
+            var img = this.add.image(0, 0, '03');
+            img.setDisplayOrigin(0, 0);
+            var img = this.add.image(0, 0, '04');
+            img.setDisplayOrigin(0, 0);
+            var img = this.add.image(0, 0, '05');
+            img.setDisplayOrigin(0, 0);
+
+
+
+            var img = this.add.image(320, 0, '01');
+            img.setDisplayOrigin(0, 0);
+            var img = this.add.image(320, 0, '02');
+            img.setDisplayOrigin(0, 0);
+            var img = this.add.image(320, 0, '03');
+            img.setDisplayOrigin(0, 0);
+            var img = this.add.image(320, 0, '04');
+            img.setDisplayOrigin(0, 0);
+            var img = this.add.image(320, 0, '05');
+            img.setDisplayOrigin(0, 0);
+            var logo = this.physics.add.image(100, 100, 'logo');
+
+            logo.setCollideWorldBounds(true);
+
+
+
+        }
+    </script>
+
+</body>
+</html>
